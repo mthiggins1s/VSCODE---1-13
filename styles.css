@@ -8,7 +8,7 @@ body {
 
 .box {
     background-color: #3d20e1;
-    border: 5px solid #4f7ca9;
+    border: 4px solid #142537;
     padding: 20px;
     margin: 20px;
     width: 500px;
@@ -30,7 +30,7 @@ body {
 
 #four {
     margin: 20px;
-    background-color: yellow;
+    background-color: rgb(255, 183, 0);
 }
 
 #five {
@@ -47,5 +47,5 @@ body {
 }
 
 .box-text:hover {
-    color: #ffcc00;
+    color: #06edca;
 }
