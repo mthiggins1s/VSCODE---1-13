@@ -15,5 +15,5 @@ document.getElementById('text-four').addEventListener('click', function() {
 });
 
 document.getElementById('text-five').addEventListener('click', function() {
-    window.location.href = 'https://www.youtube.com/watch?v=9bZkp7q19f0';
+    window.location.href = 'https://www.youtube.com/watch?v=Z8FBnz6USIM';
 });
